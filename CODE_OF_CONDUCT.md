@@ -60,7 +60,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at ask-rc@leeds.ac.uk.
+reported to the community leaders responsible for enforcement via the IT Service Desk at itservicedesk@leeds.ac.uk.
 
 All complaints will be reviewed and investigated promptly and fairly.
 
